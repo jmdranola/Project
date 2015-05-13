@@ -3,7 +3,7 @@
 
 	<head>
 	    <meta charset="utf-8">
-	    <title>Flat UI Free 101 Template</title>
+	    <title>POS Project</title>
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>asset/css/vendor/bootstrap.min.css">
