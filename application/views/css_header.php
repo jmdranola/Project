@@ -3,7 +3,7 @@
 
 	<head>
 	    <meta charset="utf-8">
-	    <title>POS Project</title>
+	    <title>Vend Project/title>
 	    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>asset/css/vendor/bootstrap.min.css">
